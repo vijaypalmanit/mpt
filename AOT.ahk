@@ -160,3 +160,8 @@ plan_code,"plan period","amount (converted)",
 successfulpaymentnotificationnumbernew
 from recurly_notifications
 )
+
+#g::    ; <-- Google Web Search Using Highlighted Text (Win+G)
+   Search := 1
+   Gosub www.google.com
+Return
