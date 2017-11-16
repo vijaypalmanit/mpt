@@ -162,3 +162,15 @@ plan_code,"plan period","amount (converted)",
 successfulpaymentnotificationnumbernew
 from recurly_notifications
 )
+
+::rec::recurly_notifications
+
+::subs::subscription
+
+::wp::worldpay_notifications
+
+::dr::digitalriver_notifications
+
+::recb::recurring_billling
+
+::cp::chargeback_processed
